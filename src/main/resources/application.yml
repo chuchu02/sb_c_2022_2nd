@@ -5,4 +5,4 @@ spring:
     username: kims
     password: kim123414  
 mybatis:
-  type-aliases-package: com.kth.exam.demo1.vo
+  type-aliases-package: com.kth.exam.demo.vo
